@@ -1,0 +1,2 @@
+Hello from embedded file!
+This file is embedded into the Go binary.
